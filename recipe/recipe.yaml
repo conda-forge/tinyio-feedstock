@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.4"
+  version: "0.2.0"
   python_min: '3.11'
 
 package:
@@ -11,7 +11,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/tinyio/tinyio-${{ version }}.tar.gz
-  sha256: c0ed0b8d3bcab04a177d99f53d2884337ba8a52846fb3bf4b3c441d07275d5cb
+  sha256: ce3b0a87ed6e14ab90ba25f45037b8aa484c657d550c4e98bbbeefc221d628bb
 
 build:
   number: 0
